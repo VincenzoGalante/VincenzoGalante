@@ -1,10 +1,15 @@
 ### About me
+Hi there, I am Vincenzo, an aspiring Backend Developer. 
 
-## Tech Stack
+### Tech Stack
 
-## Interests
+### Interests
+* Freediving in warm waters 🤿🏝
+* Eating good food 🍝
+* Contemporary art 🎨
+* Start-ups & entrepreneurship 🧠
 
-## CV
+### CV
 
 
 
