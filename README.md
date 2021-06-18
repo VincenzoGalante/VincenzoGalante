@@ -4,7 +4,7 @@ Hi there - I am Vincenzo, an aspiring Backend Developer. Having a project manage
 Reach out: mr.vincenzo.galante@gmail.com
 
 ## I code with..
-Ruby on Rails | JavaScript | SQL | HTML, CSS, Bootstrap | Git & GitHub | Heroku
+Ruby on Rails && JavaScript && SQL && HTML, CSS, Bootstrap && Git, GitHub && Heroku
 
 ## Beides that I love..
-Freediving in warm waters 🫁 | Eating good food 👄 | Contemporary art 👁 | Start-ups & entrepreneurship 🧠
+Freediving in warm waters 🫁 && Eating good food 👄 && Contemporary art 👁 && Start-ups & entrepreneurship 🧠
