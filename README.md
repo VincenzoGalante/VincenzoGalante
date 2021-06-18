@@ -9,13 +9,8 @@ Hi there, I am Vincenzo, an aspiring Backend Developer.
 * Contemporary art 👁
 * Start-ups & entrepreneurship 🧠
 
-### CV
-
-
-
-This site is still under construction. 
-
-💌 mr.vincenzo.galante@gmail.com
+### Contact
+mr.vincenzo.galante@gmail.com
 
 <!--
 **VincenzoGalante/VincenzoGalante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
