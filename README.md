@@ -8,7 +8,7 @@ Hi there - I am Vincenzo, an aspiring **Backend Developer**. Having a project ma
 - Git, GitHub
 - Heroku
 
-## Beides that I love..
+## Beides that I am into..
 - Freediving in warm waters 🫁 
 - Eating good food 👄 
 - Contemporary art 👁  
