@@ -5,4 +5,4 @@ Hi there - I am Vincenzo, an aspiring **Backend Developer**. Having a project ma
 Ruby on Rails && JavaScript && SQL && HTML, CSS, Bootstrap && Git, GitHub && Heroku
 
 ## Beides that I love..
-freediving in warm waters 🫁 && eating good food 👄 && contemporary art 👁 && start-ups & entrepreneurship 🧠
+freediving in warm waters 🫁 && eating good food 👄 && contemporary art 👁 && start-ups and entrepreneurship 🧠
