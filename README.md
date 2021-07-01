@@ -3,10 +3,11 @@ Hi there - I am Vincenzo, an aspiring **Backend Developer**. Having a project ma
 
 <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=32 height=32></a>
 
-## I built programms with..
-- Ruby on Rails 
-- JavaScript
-- SQL & HTML, CSS, Bootstrap
+## I built with..
+- Ruby, Ruby on Rails 
+- JavaScript, AJAX
+- SQL (PostgreSQL, MySQL)
+- HTML, CSS, Bootstrap
 - Git, GitHub
 - Heroku
 
