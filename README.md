@@ -5,10 +5,12 @@ Hi there - I am Vincenzo, an aspiring **Backend Developer**. Having a project ma
 
 ## I built with..
 - Ruby, Ruby on Rails 
-- JavaScript, AJAX
+- JavaScript
+- APIs, JSON, scraping
 - SQL (PostgreSQL, MySQL)
 - HTML, CSS, Bootstrap
 - Git, GitHub
+- Excel, Google Spreadsheets
 - Heroku
 
 ## Besides coding I am into..
