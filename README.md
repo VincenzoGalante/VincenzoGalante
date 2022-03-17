@@ -1,4 +1,4 @@
-Hi there, I am Vincenzo - a **Web Developer**. Having a business background with heavy product management influences and customer focus, I always was drawn to data driven decisions and creative problem solving. It came very natural to start coding and I immediately got interested in the logic behind web applications.
+Hi there, I am Vincenzo - a **Web Developer**. Having a business background with heavy product management influences and customer focus, I was always drawn to data driven decisions and creative problem solving. It came very natural to start coding and I immediately got interested in the logic behind web applications.
 
 💻 JavaScript, Ruby, HTML, CSS<br>
 🖼 Ruby on Rails<br>
