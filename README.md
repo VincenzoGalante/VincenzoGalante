@@ -2,7 +2,8 @@ Hi there, I am Vincenzo - a **Web Developer**. Having a business background with
 
 💻 JavaScript, Ruby, HTML, CSS<br>
 🖼 Ruby on Rails<br>
-📊 SQL, Excel, Google Spreadsheets, Google Apps Script<br>
+📊 MicroStrategy, Metabase<br>
+🔢 SQL, Excel, Google Spreadsheets, Google Apps Script<br>
 ⚙️ Git, GitHub, Heroku<br>
 
 Contact me via ✉️ or <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=12 height=12></a>
