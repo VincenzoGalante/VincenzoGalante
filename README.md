@@ -6,4 +6,4 @@ Hi there, I am Vincenzo - a **Web Developer**. Having a business consulting back
 🔢 SQL, Excel, Google Spreadsheets, Google Apps Script<br>
 ⚙️ Git, GitHub, Heroku<br>
 
-Contact me via ✉️ or <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=12 height=12></a>
+Contact me via <a href="mailto:mr.vincenzo.galante@gmail.com?subject=Hi%2C%20there!" target="_blank">✉️</a> or <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=17 height=17></a>
