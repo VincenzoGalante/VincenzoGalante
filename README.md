@@ -1,6 +1,6 @@
 Hi there, I am Vincenzo - a **Web Developer**. Having a business consulting background in the tech industry with heavy product management influences and customer focus, I was always drawn to data driven decisions and creative problem solving. It came very natural to start coding and I immediately got interested in the logic behind web applications.
 
-💻 JavaScript, Ruby, HTML, CSS<br>
+💻 JavaScript, Google Apps Script, Ruby, HTML, CSS<br>
 🖼 Ruby on Rails<br>
 📊 MicroStrategy, Metabase<br>
 🔢 SQL, Excel, Google Spreadsheets, Google Apps Script<br>
