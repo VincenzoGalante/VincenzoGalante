@@ -9,4 +9,4 @@ In my free time, I support communities in need to be self-sufficient through wat
 
 Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
 
-"Continuous learning, continuous adapting."
+"Everything is interesting - look closer." - Die Maus, German children's television series
