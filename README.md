@@ -5,8 +5,6 @@ Hello there, my name is Vincenzo.<p>
 
 I am a self-taught data professional, combining hands-on engineering skills with management consulting experience in developing tech products, along with deep expertise in strategy and operations.<p>
 
-In my free time, I support communities in need to be self-sufficient through water and education - check <a href="https://www.hfh.world/" target="_blank" rel="noreferrer">hfh.world</a>.<p> 
-
-Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
+In my free time, I support communities in need to be self-sufficient through water and education - check <a href="https://www.hfh.world/" target="_blank" rel="noreferrer">hfh.world</a>. Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
 
 "Everything is interesting - look closer." - Die Maus, German children's television series
