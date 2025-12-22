@@ -7,4 +7,4 @@ I am a self-taught data professional, combining hands-on engineering skills with
 
 In my free time, I support communities in need to be self-sufficient through water and education - check <a href="https://www.hfh.world/" target="_blank" rel="noreferrer">hfh.world</a>. Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
 
-"Stay calm, keep going – that’s how challenges turn into progress." - Die Maus, German children's television series
+"Admiration is the furthest thing from understanding." - Killua Zoldyck, Hunter x Hunter
