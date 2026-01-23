@@ -1,10 +1,19 @@
 <a href="https://corporate.zalando.com/en/about-us/who-we-are" target="_blank"><img src="https://companieslogo.com/img/orig/ZAL.DE_BIG.D-6ec9d93c.png" width=150></a>
 
 
-Hello there, my name is Vincenzo.<p> 
+### Hi there, I'm Vincenzo 👋
 
-I am a former strategy consultant turned data professional with expertise across the entire data value chain and deep experience in tech product development and operations.
+I am a former Strategy Consultant turned **Senior Analytics Engineer** with expertise across the entire data value chain and deep experience in tech product development and operations.
 
-In my free time, I support communities in need to be self-sufficient through water and education - check <a href="https://www.hfh.world/" target="_blank" rel="noreferrer">hfh.world</a>. Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
+Currently, my team and I architect the data landscape for **Zalando's** merchant platform using the modern data stack: **Databricks, PySpark, and dbt**. I focus on building scalable solutions for both internal decision-makers and external customers, constantly exploring new patterns in data engineering to improve our work.
 
-"Admiration is the furthest thing from understanding." - Killua Zoldyck, Hunter x Hunter
+From founding an international fashion company and consulting haute couture brands in Paris to leading strategic initiatives for Europe's largest e-commerce platforms, I've developed a cross-industry approach to complex problem-solving.
+
+---
+
+### 🌱 Giving Back
+In my free time, I contribute to helping communities in need to become self-sufficient through initiatives focused on water and education. Learn more at [hfh.world](https://hfh.world).
+
+Feel free to say hello via [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL).
+
+> *"Admiration is the furthest thing from understanding."* – Killua Zoldyck, Hunter x Hunter
