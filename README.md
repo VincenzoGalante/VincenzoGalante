@@ -3,7 +3,7 @@
 
 Hello there, my name is Vincenzo.<p> 
 
-I am a former strategy consultant turned self-taught data professional with expertise across the entire data value chain and deep experience in tech product development and operations.
+I am a former strategy consultant turned data professional with expertise across the entire data value chain and deep experience in tech product development and operations.
 
 In my free time, I support communities in need to be self-sufficient through water and education - check <a href="https://www.hfh.world/" target="_blank" rel="noreferrer">hfh.world</a>. Feel free to say hello via <a href="https://www.linkedin.com/in/galantevincenzo/" target="_blank" rel="noreferrer">LinkedIn</a>.<p> 
 
