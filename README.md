@@ -3,9 +3,9 @@
 
 ### Hi there, I'm Vincenzo 👋
 
-I am a former Strategy Consultant turned **Senior Analytics Engineer** with expertise across the entire data value chain and deep experience in tech product development and operations.
+I am a former **Strategy Consultant** turned **Analytics Engineer** with expertise across the entire data value chain and deep experience in data product development.
 
-Currently, my team and I architect the data landscape for **Zalando's** merchant platform using the modern data stack: **Databricks and PySpark**. I focus on building scalable solutions for both internal decision-makers and external customers, constantly exploring new patterns in data engineering to improve our work.
+Currently, my team and I architect the data landscape for Zalando's merchant platform, applying software engineering best practices to data using the modern tech stack (Databricks & PySpark). I focus on building scalable solutions for both internal decision-makers and external customers, constantly exploring new patterns in data engineering to improve our work.
 
 From founding an international fashion company and consulting haute couture brands in Paris to leading strategic initiatives for Europe's largest e-commerce platforms, I've developed a cross-industry approach to complex problem-solving.
 
