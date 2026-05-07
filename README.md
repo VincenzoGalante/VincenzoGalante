@@ -9,11 +9,9 @@ Currently, my team and I architect the data landscape for Zalando's merchant pla
 
 From founding an international fashion company and consulting haute couture brands in Paris to leading strategic initiatives for Europe's largest e-commerce platforms, I've developed a cross-industry approach to complex problem-solving.
 
----
-
 ### 🌱 Giving Back
 In my free time, I contribute to helping communities in need to become self-sufficient through initiatives focused on water and education. Learn more at [hfh.world](https://hfh.world).
 
 Feel free to say hello via [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL).
 
-> *"Admiration is the furthest thing from understanding."* – Killua Zoldyck, Hunter x Hunter
+> *"You shall not run Databricks production jobs on interactive clusters." - Son Goku, Dragon Ball Z*
