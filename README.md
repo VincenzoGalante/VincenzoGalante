@@ -12,6 +12,6 @@ From founding an international fashion company and consulting haute couture bran
 ### 🌱 Giving Back
 In my free time, I contribute to helping communities in need to become self-sufficient through initiatives focused on water and education. Learn more at [hfh.world](https://hfh.world).
 
-Feel free to say hello via [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL).
+Feel free to say hello via [LinkedIn](https://www.linkedin.com/in/galantevincenzo/).
 
 > *"You shall not run Databricks production jobs on interactive clusters." - Son Goku, Dragon Ball Z*
